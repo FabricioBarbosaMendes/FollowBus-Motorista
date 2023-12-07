@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "buslivemotorista",
+    "slug": "BusLiveMotorista",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.ACCESS_BACKGROUND_LOCATION"
+      ],
+      "package": "com.harceus.buslivemotorista"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4f620b75-8902-449c-8b91-f1003a314258"
+      }
+    }
+  },
+  "name": "buslivemotorista"
+}
